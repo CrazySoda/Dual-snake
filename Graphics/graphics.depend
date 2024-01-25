@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1675926683 source:e:\arian\graphics\imain.cpp
+	"iGraphics.h"
+
+1675926683 e:\arian\graphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1675934584 source:e:\arian\graphics\practice.cpp
+	"iGraphics.h"
+

@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1675328280 source:f:\graphics\imain.cpp
+	"iGraphics.h"
+
+1675324445 f:\graphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1675324445 source:f:\graphics\mousedemo.cpp
+	"iGraphics.h"
+
+1675324445 source:f:\graphics\picturedemo.cpp
+	"iGraphics.h"
+
+1675324445 source:f:\graphics\textinputdemo.cpp
+	"iGraphics.h"
+

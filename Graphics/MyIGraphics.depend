@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1391970930 source:c:\documents and settings\administrator\desktop\myigraphics\imain.cpp
+	"iGraphics.h"
+
+1456757719 c:\documents and settings\administrator\desktop\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1457313346 source:c:\documents and settings\administrator\desktop\copy of myigraphics\imain.cpp
+	"iGraphics.h"
+
+1462108167 c:\documents and settings\administrator\desktop\copy of myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1457313346 source:c:\documents and settings\administrator\desktop\copy of myigraphics\picturedemo.cpp
+	"iGraphics.h"
+
+1462159437 source:c:\users\user\desktop\new folder\copy of myigraphics\imain.cpp
+	"iGraphics.h"
+
+1462108167 c:\users\user\desktop\new folder\copy of myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1462159751 source:c:\users\user\desktop\new folder\copy of myigraphics\balldemo.cpp
+	"iGraphics.h"
+
+1462159787 source:c:\users\user\desktop\new folder\copy of myigraphics\mousedemo.cpp
+	"iGraphics.h"
+
+1462159912 source:c:\users\user\desktop\new folder\copy of myigraphics\textinputdemo.cpp
+	"iGraphics.h"
+
+1457313346 source:c:\users\user\desktop\new folder\copy of myigraphics\picturedemo.cpp
+	"iGraphics.h"
+
+1457313346 source:c:\users\user\desktop\new folder\copy of myigraphics\watch.cpp
+	"iGraphics.h"
+	<math.h>
+	<time.h>
+
+1462160910 source:c:\users\user\desktop\igraphics\myigraphics\picturedemo.cpp
+	"iGraphics.h"
+
+1462108167 c:\users\user\desktop\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1677620220 source:e:\arian\graphics\imain.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<windows.h>
+	<mmsystem.h>
+
+1676617227 e:\arian\graphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"GL/glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	<GL/glaux.h>
+	"stb_image.h"
+
+1677645314 source:e:\arian\graphics\practice.cpp
+	<iostream>
+	<windows.h>
+	"iGraphics.h"
+	<string.h>
+
+1675926683 source:e:\arian\graphics\mousedemo.cpp
+	"iGraphics.h"
+
+1676617228 e:\arian\graphics\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1675926683 source:e:\arian\graphics\picturedemo.cpp
+	"iGraphics.h"
+
